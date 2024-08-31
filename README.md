@@ -60,6 +60,12 @@ Another important contribution of Cyberdiagnostic Physics is in the development 
 [ChatGPT](https://github.com/sourceduty/ChatGPT)
 <br>
 [New Science Subjects](https://github.com/sourceduty/New_Science_Subjects)
+<br>
+[Health](https://github.com/sourceduty/Health)
+<br>
+[Cancer](https://github.com/sourceduty/Cancer)
+<br>
+[Health Informatics Simulator](https://github.com/sourceduty/Health_Informatics_Simulator)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
